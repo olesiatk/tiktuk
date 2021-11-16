@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { FeedList } from './pages/feed/FeedList'
+import { FeedList } from './pages/feed/FeedList.jsx'
 
 function App() {
   return (
